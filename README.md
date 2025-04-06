@@ -36,7 +36,7 @@ Keep in mind that the links expire after 24 hours and a certain amount of downlo
 
 ### Access to Hugging Face
 
-We are also providing downloads on [Hugging Face](https://huggingface.co/meta-llama). You can request access to the models by acknowledging the license and filling the form in the model card of a repo. After doing so, you should get access to all the Llama models of a version (Code Llama, Llama 2, or Llama Guard) within 1 hour.
+We are also providing downloads on [Hugging Face](https://huggingface.co/meta-llama). You can request access to the models by acknowledging the license and filling in the form in the model card of a repo. After doing so, you should get access to all the Llama models of a version (Code Llama, Llama 2, or Llama Guard) within 1 hour.
 
 ## Quick Start
 
@@ -138,5 +138,5 @@ See the [LICENSE](LICENSE) file, as well as our accompanying [Acceptable Use Pol
 
 For common questions, the FAQ can be found [here](https://ai.meta.com/llama/faq/) which will be kept up to date over time as new questions arise. 
 
-## Original Llama
+    ## Original Llama8=(
 The repo for the original llama release is in the [`llama_v1`](https://github.com/facebookresearch/llama/tree/llama_v1) branch.
